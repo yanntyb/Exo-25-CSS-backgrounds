@@ -12,7 +12,7 @@
 
 ## Etape 2
 
-Attention, pipège !!
+Attention, piège !!
 
   1. Créez une nouvelle page HTML dans les règles de l'art.
   
