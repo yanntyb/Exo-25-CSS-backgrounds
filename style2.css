@@ -1,6 +1,9 @@
 div {
     width: 200px;
     height: 200px;
+    -webkit-box-shadow: 4px 4px 8px 2px #000000;
+    -moz-box-shadow: 4px 4px 8px 2px #000000;
+    box-shadow: 4px 4px 8px 2px #000000;
 }
 
 img {
@@ -12,4 +15,5 @@ img {
     border-style: solid;
     border-width: 10px;
     border-color: darkviolet;
+    border-radius: 25px;
 }
