@@ -1,0 +1,15 @@
+div {
+    width: 200px;
+    height: 200px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.imgCadre {
+    border-style: solid;
+    border-width: 10px;
+    border-color: darkviolet;
+}
